@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle jackpot-slot-online",
+        "command": "jackpot-slot-online:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "jackpot-slot-online",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "jackpot-slot-online:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
