@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Situs Lengkap Ketahui Info Jackpot Slot Online Terbukti Membayar](https://atom.io/packages/jackpot-slot-online)
-## :top: klik untuk [Dapatkan Promo Anda Hari Ini](https://agentotoplay.net/promo/) :ok_hand: <<< 
-## :star2: klik untuk [Mulai Deposit Sekarang](https://agentotoplay.net/promo/) :green_heart: <<< 
-## :8ball: klik untuk [Mulai Main Dan Mendaftar](https://agentotoplay.net/) :ok_hand: <<< 
+## :top: klik untuk [Dapatkan Promo Anda Hari Ini](https://golinkurl.github.io/promo/) :ok_hand: <<< 
+## :star2: klik untuk [Mulai Deposit Sekarang](https://golinkurl.github.io/promo/) :green_heart: <<< 
+## :8ball: klik untuk [Mulai Main Dan Mendaftar](https://golinkurl.github.io/) :ok_hand: <<< 
 
 ## Informasi Situs /Server Kami : 
 
